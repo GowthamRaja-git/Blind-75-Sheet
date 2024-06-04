@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -28,3 +29,7 @@
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0027-remove-element) |
