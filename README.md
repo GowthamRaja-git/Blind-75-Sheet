@@ -16,6 +16,7 @@
 # Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0069-sqrtx) |
 # Binary Search
 |  |
@@ -33,3 +34,4 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0066-plus-one) |
