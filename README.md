@@ -40,12 +40,15 @@
 | [0066-plus-one](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0066-plus-one) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
+| [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
 # Hash Table
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
+| [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
+| [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
