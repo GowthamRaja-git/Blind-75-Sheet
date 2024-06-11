@@ -20,6 +20,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0070-climbing-stairs) |
 # Binary Search
 |  |
 | ------- |
@@ -75,3 +76,11 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0070-climbing-stairs) |
