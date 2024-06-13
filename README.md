@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0112-path-sum) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0112-path-sum) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -86,3 +88,11 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0070-climbing-stairs) |
+# Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0112-path-sum) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0112-path-sum) |
