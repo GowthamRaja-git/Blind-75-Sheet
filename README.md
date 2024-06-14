@@ -32,6 +32,7 @@
 # Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
@@ -42,6 +43,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0219-contains-duplicate-ii) |
+| [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
 | [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
@@ -55,6 +57,7 @@
 # Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
 # Sliding Window
@@ -96,3 +99,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0112-path-sum) |
+# Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
