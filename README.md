@@ -43,6 +43,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0303-range-sum-query-immutable) |
 | [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
@@ -103,3 +104,11 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
+# Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0303-range-sum-query-immutable) |
+# Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0303-range-sum-query-immutable) |
