@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -32,12 +33,14 @@
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
