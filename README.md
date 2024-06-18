@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -48,6 +49,7 @@
 | [0219-contains-duplicate-ii](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
@@ -56,12 +58,14 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
 | [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
 # Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
@@ -82,6 +86,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0349-intersection-of-two-arrays) |
 # Binary Tree
 |  |
 | ------- |
