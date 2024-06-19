@@ -14,6 +14,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0344-reverse-string) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0070-climbing-stairs) |
 # Binary Search
@@ -121,3 +123,11 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0303-range-sum-query-immutable) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0067-add-binary) |
+# Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0067-add-binary) |
