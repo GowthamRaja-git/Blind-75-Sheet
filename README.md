@@ -53,6 +53,7 @@
 | [0303-range-sum-query-immutable](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
 | [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
 | [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
@@ -69,12 +71,14 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
 # Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +119,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 # Design
 |  |
 | ------- |
