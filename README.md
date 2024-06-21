@@ -136,3 +136,11 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0067-add-binary) |
+# Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0206-reverse-linked-list) |
+# Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0206-reverse-linked-list) |
