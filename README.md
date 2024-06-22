@@ -25,6 +25,7 @@
 | [0067-add-binary](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0258-add-digits) |
 # Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0258-add-digits) |
 # Linked List
 |  |
 | ------- |
@@ -144,3 +146,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0206-reverse-linked-list) |
+# Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0258-add-digits) |
