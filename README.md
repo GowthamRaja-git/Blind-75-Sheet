@@ -15,6 +15,7 @@
 | [0020-valid-parentheses](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0344-reverse-string) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0257-binary-tree-paths) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0257-binary-tree-paths) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0463-island-perimeter) |
 # Breadth-First Search
 |  |
@@ -157,3 +161,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0463-island-perimeter) |
+# Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0257-binary-tree-paths) |
