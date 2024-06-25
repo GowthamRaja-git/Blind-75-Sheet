@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -17,6 +18,7 @@
 | [0067-add-binary](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0345-reverse-vowels-of-a-string) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Math
