@@ -42,6 +42,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0605-can-place-flowers) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
@@ -59,6 +60,7 @@
 | [0463-island-perimeter](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0605-can-place-flowers) |
 | [0876-hand-of-straights](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
 | [2892-check-if-array-is-good](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2892-check-if-array-is-good) |
