@@ -9,6 +9,7 @@
 | [0344-reverse-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -19,6 +20,7 @@
 | [0257-binary-tree-paths](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0392-is-subsequence) |
 | [1044-find-common-characters](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Math
@@ -113,6 +115,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0392-is-subsequence) |
 # Memoization
 |  |
 | ------- |
