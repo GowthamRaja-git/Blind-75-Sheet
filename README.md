@@ -196,4 +196,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1392-find-the-difference-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
