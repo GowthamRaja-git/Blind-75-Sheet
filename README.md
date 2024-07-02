@@ -200,8 +200,13 @@
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1833-find-the-highest-altitude](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1392-find-the-difference-of-two-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
