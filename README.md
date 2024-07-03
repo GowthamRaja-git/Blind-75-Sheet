@@ -187,6 +187,7 @@
 | [0412-fizz-buzz](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
 | ------- |
