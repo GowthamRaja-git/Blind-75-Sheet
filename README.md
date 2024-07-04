@@ -200,6 +200,7 @@
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0724-find-pivot-index) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
@@ -210,5 +211,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
