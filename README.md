@@ -200,6 +200,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0136-single-number) |
 | [0724-find-pivot-index](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0724-find-pivot-index) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1833-find-the-highest-altitude) |
@@ -213,4 +214,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1833-find-the-highest-altitude) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
