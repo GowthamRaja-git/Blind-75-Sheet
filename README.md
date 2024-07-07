@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -223,4 +224,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0338-counting-bits) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
