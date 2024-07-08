@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0412-fizz-buzz) |
+| [0862-find-and-replace-in-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0862-find-and-replace-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0136-single-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0136-single-number) |
 | [0724-find-pivot-index](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0724-find-pivot-index) |
+| [0862-find-and-replace-in-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0862-find-and-replace-in-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0862-find-and-replace-in-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0862-find-and-replace-in-string) |
 <!---LeetCode Topics End-->
