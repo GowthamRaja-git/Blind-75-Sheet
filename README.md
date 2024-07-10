@@ -229,6 +229,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
