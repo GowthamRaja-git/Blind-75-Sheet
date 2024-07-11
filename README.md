@@ -185,6 +185,7 @@
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0412-fizz-buzz) |
 | [0862-find-and-replace-in-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0862-find-and-replace-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -193,6 +194,7 @@
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Simulation
