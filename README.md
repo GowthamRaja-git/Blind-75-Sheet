@@ -260,4 +260,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
