@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0203-remove-linked-list-elements) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -268,4 +269,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0278-first-bad-version) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
