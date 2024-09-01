@@ -204,6 +204,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0136-single-number) |
 | [0724-find-pivot-index](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0724-find-pivot-index) |
 | [0862-find-and-replace-in-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0862-find-and-replace-in-string) |
@@ -212,6 +213,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0001-two-sum) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
