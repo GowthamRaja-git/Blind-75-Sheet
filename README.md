@@ -188,6 +188,7 @@
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0412-fizz-buzz) |
 | [0862-find-and-replace-in-string](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0862-find-and-replace-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -220,6 +221,7 @@
 | [0001-two-sum](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0290-word-pattern) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
