@@ -200,6 +200,7 @@
 | [0171-excel-sheet-column-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Simulation
@@ -287,4 +288,12 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0203-remove-linked-list-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
