@@ -180,12 +180,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0202-happy-number) |
 | [1894-merge-strings-alternately](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0171-excel-sheet-column-number](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0290-word-pattern) |
@@ -238,6 +240,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/GowthamRaja-git/Blind-75-Sheet/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
